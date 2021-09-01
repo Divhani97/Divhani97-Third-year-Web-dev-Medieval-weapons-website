@@ -1,0 +1,15 @@
+Arrow bag brown,240.96,images\1.img.jpg,10
+MD&F-D crosbow,150.96,images\2.img.jpg,10
+conpound bow,350.96,images\3.img.jpg,10
+MMK3 low voltage bow,150.96,images\4.img.jpg,10
+O7 crosbow,350.96,images\5.img.jpg,10
+Arrow bag brown,350.96,images\6.img.jpg,10
+G-Box complete set,450.96,images\7.img.jpg,10
+H_finger tab,360.96,images\8.img.jpg,10
+hvComplete set,256.10,images\9.img.webp,10
+hand garnace,590.75,images\10.img.jpg,15
+blk finger tab,1000,images\11.img.jpg,15
+hand tab bow kit,350.00,images\12.img.jpg,7
+arrow heads silver,350.00,images\13.img.jpg,20
+Nadia kit ,1000.50,images\14.img.jpg,10
+set O,350.96,images\15.img.jpg,10

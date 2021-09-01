@@ -1,0 +1,14 @@
+<?php
+
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Start</title>
+	
+</head>
+<body>
+   
+</body>
+</html>
